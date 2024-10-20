@@ -51,6 +51,6 @@ Welcome to CrystalBall! Our innovative project helps participants break the ice 
 
 ## 🔆 Authors <a name="authors"></a>
 
-- ✨ **Mingkun Li** - Hardware & Code
 - ✨ **Jiaqi Zhang** - Script
 - ✨ **Jue Ma** - Code
+- ✨ **Mingkun Li** - Hardware & Code
